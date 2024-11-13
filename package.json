@@ -1,0 +1,25 @@
+{
+  "name": "chathub-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantsisodiya-sps/chatHub-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishantsisodiya-sps/chatHub-backend/issues"
+  },
+  "homepage": "https://github.com/nishantsisodiya-sps/chatHub-backend#readme",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.395.0",
+    "multer": "^1.4.5-lts.1",
+    "multer-s3": "^3.0.1"
+  }
+}
